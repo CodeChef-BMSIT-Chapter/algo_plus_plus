@@ -1,43 +1,45 @@
-# algo_plus_plus
-<h2>How To Contribute</h2>
-<h4>Fork this repository 🔱</h4>
+<div>
+  <img align="right" alt="codechefbmsit" width="" src="chapterlogo.png" />
+  <h1 align="center">ALGO++</h1>
+</div>
+
+<h1>How to Contribute</h1>
+<h3>Fork this repository 🔱</h3>
 <p>Fork this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.</p>
 
-<h4>Clone the repository 🏁</h4>
+<h3>Clone the repository 🏁</h3>
 <p>Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the copy to clipboard icon.</p>
 
-<h5>Open a terminal and run the following git command:</h5>
+<h3>Open a terminal and run the following git command:</h3>
 
 ```git clone "https://github.com/<YOUR_USERNAME>/algo_plus_plus.git"```<br>
 replace <YOUR_USERNAME> by the your GitHub username.
 
-For example:
-
+For example:<br>
 ```git clone https://github.com/akshat-fsociety/algo_plus_plus.git```
 
-<h4>Create a branch ⚓</h4>
+<h3>Create a branch ⚓</h3>
 Change to the repository directory on your computer (if you are not already there):
 
-```cd (filename)```<br>
-Now create a branch using the git checkout command:
+```cd (filename)```
 
-```git checkout -b your-new-branch-name```<br>
-For example:
+Now create a branch using the git checkout command:<br>
+```git checkout -b your-new-branch-name```
 
-```git checkout -b dev_username```<br>
+For example:<br>
+```git checkout -b dev_username```
 
-<h4>Make necessary changes and commit those changes 🚏 </h4>
+<h3>Make necessary changes and commit those changes 🚏 </h3>
 
-```git add .```<br>
+```git add .```
 
 Now commit<br>
-```git commit -m <Add your message here>```<br>
+```git commit -m <Add your message here>```
 
-<h4>Push changes to GitHub 🪂</h4>
+<h3>Push changes to GitHub 🪂</h3>
 
 ```git push origin <branch-name>``` <br>
-
-replacing <branch-name> with the name of the branch you created earlier.
+Replacing <branch-name> with the name of the branch you created earlier.
   
-  <h1>Hoorayy!🎉</h1>
+<h1>Hoorayy!🎉</h1> 
   
